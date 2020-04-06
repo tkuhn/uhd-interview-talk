@@ -304,6 +304,9 @@ color: #d66;
 span.cem2 {
 color: #66d;
 }
+span.hidden {
+color: #fff;
+}
 .reveal h1,
 .reveal h2,
 .reveal h3,
