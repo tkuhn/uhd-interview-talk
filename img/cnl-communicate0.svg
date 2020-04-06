@@ -9,15 +9,8 @@
    <rect x="19" y="12" width="18962" height="12475"/>
   </clipPath>
  </defs>
- <defs>
-  <font id="EmbeddedFont_1" horiz-adv-x="2048">
-   <font-face font-family="DejaVu Sans embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1879" descent="476"/>
-   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
-   <glyph unicode="?" horiz-adv-x="822" d="M 391,254 L 594,254 594,0 391,0 391,254 Z M 588,401 L 397,401 397,555 C 397,622 406,678 425,721 444,764 483,815 543,872 L 633,961 C 671,996 699,1030 716,1061 733,1092 741,1124 741,1157 741,1216 719,1264 676,1301 632,1338 574,1356 502,1356 449,1356 393,1344 334,1321 274,1298 212,1264 147,1219 L 147,1407 C 210,1445 273,1473 338,1492 402,1511 468,1520 537,1520 660,1520 758,1488 833,1423 907,1358 944,1273 944,1167 944,1116 932,1068 908,1023 884,977 842,925 782,868 L 694,782 C 663,751 641,726 628,709 615,691 605,674 600,657 596,643 593,626 591,606 589,586 588,559 588,524 L 588,401 Z"/>
-  </font>
- </defs>
  <defs class="TextShapeIndex">
-  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50 id51 id52 id53 id54 id55 id56 id57 id58 id59 id60 id61 id62 id63 id64 id65 id66"/>
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32 id33 id34 id35 id36 id37 id38 id39 id40 id41 id42 id43 id44 id45 id46 id47 id48 id49 id50 id51 id52 id53 id54 id55 id56 id57 id58 id59 id60 id61 id62 id63 id64 id65"/>
  </defs>
  <defs class="EmbeddedBulletChars">
   <g id="bullet-char-template-57356" transform="scale(0.00048828125,-0.00048828125)">
@@ -469,12 +462,6 @@
          <rect class="BoundingBox" stroke="none" fill="none" x="5659" y="5552" width="3169" height="1646"/>
          <path fill="none" stroke="rgb(0,0,0)" stroke-width="120" stroke-linejoin="round" d="M 8767,5612 L 8132,5612 5846,7136 C 5888,6628 5931,6120 5973,5612 L 5719,5612"/>
         </g>
-       </g>
-      </g>
-      <g class="com.sun.star.drawing.TextShape">
-       <g id="id66">
-        <rect class="BoundingBox" stroke="none" fill="none" x="2035" y="532" width="14616" height="4769"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="DejaVu Sans, sans-serif" font-size="3528px" font-weight="400"><tspan class="TextPosition" x="8407" y="4137"><tspan fill="rgb(0,0,0)" stroke="none">?</tspan></tspan></tspan></text>
        </g>
       </g>
      </g>
